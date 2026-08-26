@@ -1,0 +1,7 @@
+# Besomi Robotics & AI — robots.txt
+# https://besomi.z-code.dev/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://besomi.z-code.dev/sitemap.xml

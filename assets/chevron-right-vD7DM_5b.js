@@ -1,0 +1,1 @@
+import{W as t,Z as o,r,_ as n,g as s}from"./index-CRLpdv6z.js";function u(){!t.current&&o();const[e]=r.useState(n.current);return e}const c=[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]],d=s("chevron-right",c);export{d as C,u};
